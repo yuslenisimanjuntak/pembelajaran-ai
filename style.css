@@ -1,0 +1,49 @@
+
+/* PENGATURAN SELURUH HALAMAN */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333333;
+    margin: 0;
+    line-height: 1.8;
+}
+
+/* BAGIAN JUDUL */
+header {
+    background-color: #174a70;
+    color: white;
+    text-align: center;
+    padding: 45px 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* ISI HALAMAN */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+/* JUDUL MATERI */
+h2 {
+    color: #168aad;
+    font-size: 25px;
+}
+
+/* KOTAK MATERI */
+section {
+    background-color: #eaf4f8;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
